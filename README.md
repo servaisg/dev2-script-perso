@@ -1,2 +1,5 @@
-# dev2-script-perso
-Automatisation d’un système de gestion d’inventaire
+Commands to use to run the programm:
+
+python mainv2.py fruits.csv legumes.csv
+
+After using this command you should be able to navigate via the terminal.
